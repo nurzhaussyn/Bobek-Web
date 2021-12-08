@@ -1,0 +1,20 @@
+
+.contact-container {
+
+    &__title {
+        padding: 2px;
+        text-align: center;
+        
+    }
+    .table {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    
+        .t-row {
+            padding: 5px;
+            border-bottom: 1px solid #cecece;
+        }
+    }
+}
+

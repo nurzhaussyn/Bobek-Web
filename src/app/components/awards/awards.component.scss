@@ -1,0 +1,22 @@
+.awards-teachers {
+    &__title {
+        text-align: center;
+    }
+}
+.diploma {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.diploma-list {
+    display: flex;
+    flex-direction: row; 
+    a{
+        padding: 10px;
+    }
+}
+.awards-children {
+    &__title {
+        text-align: center;
+    }
+}
